@@ -13,22 +13,30 @@ en:
       home: "Home"
       help: "Help"
       login : "Log in"
+  sessions:
+    new:
+      remember: "Remember my account"
+      sign: "Sign up now !"
   users:
     user:
-      delete: "Delete"  
-      sure: "You sure ?" 
+      delete: "Delete"
+      sure: "You sure ?"
     edit:
-      update: "Update your profile" 
+      update: "Update your profile"
       confi: "Confirmation"
       save: "Save changes"
       change: "change"
+    index:
+      alluser: "All users"
+    new:
+      sign: "Sign up"
   static_pages:
-    home:  
+    home:
       welcome: "Welcome to the Sample App"
       rubyon: "Ruby on Rails Tutorial"
-      hpage: "This is the home page for the" 
+      hpage: "This is the home page for the"
       same: "sample application."
-      signup: "Sign up now !"  
+      signup: "Sign up now !"
       railslogo: "Rails logo"
     help:
       h: "Help"
