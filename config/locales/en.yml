@@ -12,7 +12,11 @@ en:
       logo: "SAMPLE APP"
       home: "Home"
       help: "Help"
+      user: "Users"
+      profile: "Profile"
+      setting: "Settings"
       login : "Log in"
+      loguot: "Log out"
   sessions:
     new:
       remember: "Remember my account"
@@ -42,6 +46,14 @@ en:
       h: "Help"
       rubyon: "Ruby on Rails Tutorial"
       rubyh: "Rails Tutorial help section"
+  static_pages:
+    home:
+      welcome: "Welcome to the Sample App"
+      hpage: "This is the home page for the"
+      same: "sample application."
+      sign: "Sign up now !"
+    help:
+      h: "Help"
       geth: "Get help on the Ruby on Rails Tutorial at the"
       tog: "To get help on this sample app, see the"
       b: "book"
