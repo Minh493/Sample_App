@@ -37,21 +37,11 @@ en:
   static_pages:
     home:
       welcome: "Welcome to the Sample App"
-      rubyon: "Ruby on Rails Tutorial"
+      ruby_on: "Ruby on Rails Tutorial"
       hpage: "This is the home page for the"
       same: "sample application."
-      signup: "Sign up now !"
+      sign_up: "Sign up now !"
       railslogo: "Rails logo"
-    help:
-      h: "Help"
-      rubyon: "Ruby on Rails Tutorial"
-      rubyh: "Rails Tutorial help section"
-  static_pages:
-    home:
-      welcome: "Welcome to the Sample App"
-      hpage: "This is the home page for the"
-      same: "sample application."
-      sign: "Sign up now !"
     help:
       h: "Help"
       geth: "Get help on the Ruby on Rails Tutorial at the"
