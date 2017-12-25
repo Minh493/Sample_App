@@ -12,28 +12,33 @@ en:
       logo: "SAMPLE APP"
       home: "Home"
       help: "Help"
-      user: "Users"
       profile: "Profile"
       setting: "Settings"
       login : "Log in"
-      loguot: "Log out"
+      logout: "Log out"
   sessions:
     new:
+      login : "Log in"
+      forgotpass: "(Forgot password)"
       remember: "Remember my account"
       sign: "Sign up now !"
+      user: "New user ?"
   users:
     user:
       delete: "Delete"
       sure: "You sure ?"
     edit:
+      edituser: "Edit user"
       update: "Update your profile"
       confi: "Confirmation"
       save: "Save changes"
-      change: "change"
+      change: "Change avatar"
     index:
       alluser: "All users"
     new:
       sign: "Sign up"
+      confir: "Confirmation"
+      create: "Create my account"
   static_pages:
     home:
       welcome: "Welcome to the Sample App"
@@ -64,3 +69,23 @@ en:
       rails: "Ruby on Rails Tutorial"
       teach: "to teach web development with"
       this: "This is the sample application for the tutorial."
+  password_resets:
+    edit:
+      resetpass: "Reset password"
+      confir: "Confirmation"
+      uppass: "Update password"
+    new:
+      forgotpass: "Forgot password"
+      submit: "Submit"
+  user_mailer:
+    account_activation:
+      sample: "Sample App"
+      hi: "Hi"
+      welcome: "Welcome to the Sample App! Click on the link below to activate your account:"
+      active: "Activate"
+    password_resets:
+      resetpass: "Reset password"
+      toreset: "To reset your password click the link below:"
+      twohours: "This link will expire in two hours."
+      ifyou: "If you did not request your password to be reset, please ignore this email and
+your password will stay as it is."
