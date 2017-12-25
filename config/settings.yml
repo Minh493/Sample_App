@@ -1,3 +1,4 @@
 size_name: 50
 size_email: 255
 size_pass: 6
+max_content: 140
